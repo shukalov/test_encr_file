@@ -1,0 +1,10 @@
+[Users]
+user1 = okAAt4cyJRuARKaG
+user2 = AcmeInc.
+user3 = passuser3
+
+[database]
+server = 192.0.2.62
+port = 143
+file = "payroll.dat"
+
